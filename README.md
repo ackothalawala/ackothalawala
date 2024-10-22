@@ -6,7 +6,7 @@
   
 </p>
 
-Hi 👋, I'm Avishka Kothalawala<br>👀 I’m interested in Game Development, Business Analysis, and, Quality Assurance.<br>🎓 I’m currently studying at Sabaragamuwa University of Sri Lanka, pursuing an Information Systems degree.<br> 🤝 I’m looking to collaborate on projects<br>📫 You can reach me  through ackothalawala@gmail.com
+Hi 👋, I'm Avishka Kothalawala<br>👀 I’m interested in Game Development, and Business Analysis.<br>🎓 I’m currently studying at Sabaragamuwa University of Sri Lanka, pursuing an Information Systems degree.<br> 🤝 I’m looking to collaborate on projects<br>📫 You can reach me  through ackothalawala@gmail.com
 
 
 ## 🌐 Socials:
